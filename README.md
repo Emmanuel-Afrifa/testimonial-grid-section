@@ -18,7 +18,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ![Screenshot of the webpage](./images/Web%20capture_8-5-2023_213036_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/testimonial-grid-section)
 - [Deployed site](#)
 
 ## Process
@@ -29,7 +29,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Grid
 
 ### What's new?
-I Utilized flex and margins to align the items in the main container. I also used grid's 'place-items' to align the main container in the center of the page.
+I used CSS grid for the layout of the desktop view and flex for the mobile view.
 
 ## Author
 - Emmanuel Afrifa
